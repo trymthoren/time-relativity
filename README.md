@@ -4,9 +4,14 @@ This project is an interactive simulation built with Python and Pygame that visu
 
 Features
 Celestial Object Generation: Generates stars, planets, galaxies, nebulae, and black holes to populate the simulation universe.
+
 Relativity Effects Visualization: Visualizes time dilation and Lorentz contraction based on the spaceship's velocity.
+
 Interactive Control: Allows users to control the spaceship's speed using keyboard inputs, exploring the universe at different relativistic speeds.
+
 Dynamic Universe: Celestial objects move and respawn, creating a lively cosmos for exploration.
+
+
 Installation
 To run this simulation, you'll need Python and Pygame installed on your system. Follow these steps to set up your environment:
 
